@@ -49,3 +49,11 @@ plt.tick_params(labelsize=12)
 ![画像6](./Matplotlib-Exercises1-6.png)
 
 <br>
+
+## 凡例の表示
+```
+plt.legend(loc="lower right", fontsize=12)
+```
+![画像7](./Matplotlib-Exercises1-7.png)
+
+<br>
