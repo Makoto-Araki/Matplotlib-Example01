@@ -4,7 +4,7 @@
 <br>
 
 ## 二次関数と一次関数をグラフ描画
-![画像1](./Matplotlib-Exercises1-1.png)
+![画像1](./image01.png)
 
 <br>
 
@@ -13,7 +13,7 @@
 plt.xlim(-15, 15)
 plt.ylim(-50, 300)
 ```
-![画像2](./Matplotlib-Exercises1-2.png)
+![画像2](./image02.png)
 
 <br>
 
@@ -21,7 +21,7 @@ plt.ylim(-50, 300)
 ```
 plt.title('二次関数と一次関数のグラフ描画', fontsize=20)
 ```
-![画像3](./Matplotlib-Exercises1-3.png)
+![画像3](./image03.png)
 
 <br>
 
@@ -30,7 +30,7 @@ plt.title('二次関数と一次関数のグラフ描画', fontsize=20)
 plt.xlabel('X値(-15:15)', fontsize=12)
 plt.ylabel('Y値(-50:300)', fontsize=12)
 ```
-![画像4](./Matplotlib-Exercises1-4.png)
+![画像4](./image04.png)
 
 <br>
 
@@ -38,7 +38,7 @@ plt.ylabel('Y値(-50:300)', fontsize=12)
 ```
 plt.grid(True)
 ```
-![画像5](./Matplotlib-Exercises1-5.png)
+![画像5](./image05.png)
 
 <br>
 
@@ -46,7 +46,7 @@ plt.grid(True)
 ```
 plt.tick_params(labelsize=12)
 ```
-![画像6](./Matplotlib-Exercises1-6.png)
+![画像6](./image06.png)
 
 <br>
 
@@ -54,6 +54,6 @@ plt.tick_params(labelsize=12)
 ```
 plt.legend(loc="lower right", fontsize=12)
 ```
-![画像7](./Matplotlib-Exercises1-7.png)
+![画像7](./image07.png)
 
 <br>
